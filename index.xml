@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shuttle</title>
+    <link>https://github.com/shuttle-e/shuttle-e.github.io.git/</link>
+    <description>Recent content on shuttle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Oct 2021 17:36:14 +0800</lastBuildDate><atom:link href="https://github.com/shuttle-e/shuttle-e.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker 常用命令</title>
+      <link>https://github.com/shuttle-e/shuttle-e.github.io.git/post/blog/</link>
+      <pubDate>Thu, 21 Oct 2021 17:36:14 +0800</pubDate>
+      
+      <guid>https://github.com/shuttle-e/shuttle-e.github.io.git/post/blog/</guid>
+      <description>Docker常用命令 帮助命令 docker version # 显示docker版本信息 docker info # 显示docker的系统信息 包括镜像和容器数量 docker 命令 --help # 帮助命令 帮助文档地址:https://docs.docker.com/reference/
+镜像命令 Docker images 查看所有本地主机上的镜像
+shuttle@shuttles-mac ~ % docker images REPOSITORY TAG IMAGE ID CREATED SIZE nginx latest 1e8387edf43d 13 days ago 126MB php latest f9f7d5cb3340 3 weeks ago 383MB docker/getting-started latest 3c156928aeec 10 months ago 24.8MB hello-world latest a29f45ccde2a 14 months ago 9.14kB # 解释 REPOSITORY TAG IMAGE ID CREATED SIZE 容器命令 </description>
+    </item>
+    
+  </channel>
+</rss>
